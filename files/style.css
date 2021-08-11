@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+#head{
+	margin-top: 40px;
+}
+
+.btn-block{
+	background-color:#A8F770;
+	height: 50px;
+	font-size: 25px;
+}
+
+.res{
+	height: 100px;
+	font-size: 60px;
+}
+
